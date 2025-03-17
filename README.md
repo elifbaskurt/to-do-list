@@ -72,4 +72,7 @@ To run the project on your local machine:
 
 Elif Başkurt - [GitHub](https://github.com/elifbaskurt)
 
-Project Link: [https://github.com/elifbaskurt/to-do-list](https://github.com/elifbaskurt/to-do-list)
+Project Link: [https://github.com/elifbaskurt/to-do-list](https://github.com/elifbaskurt/to-do-list)                                                                       
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
